@@ -29,6 +29,6 @@ Assurez-vous d’avoir Python installé (3.8+ recommandé).
 Aucune dépendance externe : Tkinter est installé par défaut avec Python.
 
 ```bash
-git clone https://github.com/<ton-username>/tic-tac-toe-tkinter.git
+git clone https://github.com/RayelenGuesmi/tic-tac-toe-tkinter.git
 cd tic-tac-toe-tkinter
 python main.py
